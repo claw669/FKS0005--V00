@@ -1,19 +1,11 @@
 version: 2
 
-# 最稳定的构建环境
+# 必须填写，官方强制要求
+sphinx:
+  configuration: conf.py
+
+# 稳定构建环境
 build:
   os: ubuntu-22.04
   tools:
     python: "3.10"
-
-# 不使用 sphinx 配置（避免找不到文件）
-sphin:
-  configuration: null
-
-# 不安装额外依赖
-python:
-  install:
-    - method: pip
-      path: .
-      extra_requirements:
-        - docs
