@@ -5,9 +5,12 @@
 
    产品介绍/1.产品介绍
    USB驱动安装/3.USB驱动安装(选读)
+   MakeCode_教程/4.MakeCode_Tutorial
+   MakeCode_教程/MakeCode开发环境
+   MakeCode_教程/Resource_Download
+   MakeCode_教程/故障排除
+   MicroPython_教程/5.MicroPython_Tutorial
+   MicroPython_教程/Resource_Download
+   MicroPython_教程/Thonny开发环境
+   MicroPython_教程/故障排除
    
-
-
-
-
-
